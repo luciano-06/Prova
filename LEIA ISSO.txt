@@ -1,0 +1,1 @@
+Não conseguir envia com o Node_module, estava barrando o envio
